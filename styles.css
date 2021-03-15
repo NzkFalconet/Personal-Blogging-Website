@@ -1,0 +1,120 @@
+/* body tags */
+body{
+    
+}
+                                /*-------------------------------------------navbar------------------------------------------------- */
+/* navbar style */
+.nav{
+  padding-top: 5px;
+    padding-bottom: 13px;
+}
+    /* to increase margin among navbar elements */
+.head{
+    margin-left: 20px;
+margin-right: 20px;
+}
+/* logo style family */
+.logo-style{
+    font-family: 'DM Serif Text', serif;
+    font-size: 30px;
+    color: #fffbfba3;
+}
+                      /* ------------------------------------Home Page---------------------------------------------------------------- */
+/* section id */
+#home{
+    background-color: #d3d5fd;
+    text-align: center;
+    padding-bottom: 80px;
+}
+/* my name welcome */
+.my-name{
+    font-family: "Lato";
+    color: #323232;
+
+font-style: inherit;
+font-weight:600;
+letter-spacing: 0px;
+text-transform: capitalize;
+}
+/* Real Name */
+.name{
+    font-family: "Lato";
+    color: #323232;
+
+font-style: inherit;
+font-weight:600;
+letter-spacing: 0px;
+text-transform: capitalize;
+font-size: 50px;
+    margin-left: 15px;
+}
+/* rows for home */
+.row{
+    padding-top: 100px;
+}
+/* name information */
+.name-disc{
+    margin-top: 20px;
+    color: grey;
+    font-size: 17px;
+}
+/* profile-pic */
+.profile-pic{
+   
+    width: 50%;
+        height: auto;
+        border: 3px solid #555;
+   
+}
+                      /* ------------------------------------imp-info------------------------------------------------------------ */
+ /* important-info section */
+#imp-info{
+    text-align: center;
+    /* background-color: #e1f4f3; */
+    padding-bottom: 100px;
+}
+/* hobbie */
+.hobby-disc{
+    font-family: 'Lato', sans-serif;
+    color: #323232;
+
+font-style: inherit;
+font-weight:600;
+letter-spacing: 0px;
+text-transform: capitalize;
+font-size: 23px;
+margin-top: 30px;
+}
+/* hobbies-discription */
+.hobby-disc-main{
+    margin-top: 20px;
+    color: grey;
+    font-size: 16px;
+}
+
+/* web-development image */
+.imp-info-img1{
+    width: 60%;
+    height: auto;
+ }
+ 
+/* singing image */
+ .imp-info-img2{
+    width: 60%;
+    height: auto;
+ }
+ /* gaming image */
+ .imp-info-img3{
+    width: 60%;
+    height: auto;
+ }
+
+                  /* ------------------------------------contact-us--------------------------------- */
+ .navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+ } 
+ .icon{
+    margin-left: 20px;
+    margin-right: 20px;
+ }     
